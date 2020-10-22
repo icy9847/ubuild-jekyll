@@ -6,10 +6,10 @@ webhook_url:
 sections:
 - type: document
   path: FORESTRY-README.md
-  label: Welcome - First Steps
+  label: Welcome
   read_only: true
 - type: jekyll-posts
-  label: Posts
+  label: About me
   create: all
 - type: directory
   path: ''
